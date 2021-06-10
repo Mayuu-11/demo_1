@@ -1,0 +1,15 @@
+{
+    margin: 0;
+    padding: 0;
+}
+body{
+      background:url("images/danil.jpg");
+      background-size:200%;
+      background-position:-450px 0px;
+}
+h2{
+    text-align:center;
+    padding:25px;
+    font-family:sans-serif;
+
+}
